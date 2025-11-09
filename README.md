@@ -1,4 +1,4 @@
-# 🧾 Credit Card Statement Parser (HDFC Bank)
+#  Credit Card Statement Parser (HDFC Bank)
 
 Hello there 
 
